@@ -1,0 +1,4 @@
+/dev/disk/by-uuid/A880F2E880F2BC3E /mnt/blackbear ntfs-3g defaults,uid=1000,gid=1001,umask=0007 0 1
+/dev/disk/by-uuid/9502f47e-8ff0-3608-9aab-a386d948e90d /mnt/icecream hfsplus defaults,nofail,uid=1000,gid=1001,umask=0007 0 1
+/dev/disk/by-uuid/284a03a8-7fb4-3f57-821b-9f63a2b05d9b /mnt/cupcake hfsplus defaults,nofail,uid=1000,gid=1001,umask=0007 0 1
+/dev/disk/by-uuid/2a1c3acd-f9bc-33a2-bf04-9db72f5162b9 /mnt/milkshake hfsplus defaults,nofail,uid=1000,gid=1001,umask=0007 0 1
